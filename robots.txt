@@ -1,0 +1,8 @@
+# worldcupcardindex.com
+User-agent: *
+Allow: /
+
+# Block nothing meaningful; this is a small public site.
+# AI crawlers are allowed by default — remove a block below only if you want to opt out.
+
+Sitemap: https://worldcupcardindex.com/sitemap.xml
